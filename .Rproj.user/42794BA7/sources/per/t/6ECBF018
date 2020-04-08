@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586178586654.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4280225238",
+    "id" : "6ECBF018",
+    "lastKnownWriteTime" : 1586174046,
+    "last_content_update" : 1586174046,
+    "path" : "C:/Users/Administrator/Desktop/learnR/first.R",
+    "project_path" : "first.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
